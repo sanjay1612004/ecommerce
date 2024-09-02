@@ -1530,7 +1530,7 @@ label{
         flex-direction: column;
     }
     .cards{
-        height:680px;
+        height:700px;
     }
     .holdfoot{
         margin: 0 auto;
@@ -1588,5 +1588,8 @@ label{
     }
     #card{
         height:294px;
+    }
+    .nav_content h2{
+        font-size:medium;
     }
 }
